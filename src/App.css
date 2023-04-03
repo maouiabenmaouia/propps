@@ -1,6 +1,18 @@
 .App {
-  text-align: center;
+    text-align: center;
+    background: #f7f7f7;
+    border-radius: 30px;
+    color: rgb(19, 19, 18);
+    width: 60%;
+    margin: 100px;
+    font-size: 18px;
+    padding: 20px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +47,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+.photos {
+width: 200px;
+}
+body {
+  background-color: #FFE4C4		;
 }
